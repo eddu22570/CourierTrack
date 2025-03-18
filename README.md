@@ -75,9 +75,11 @@ Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT). Vous ête
 Conçu par eddu22570.
 
 ## Captures d'écran
-
+Interface Utilisateur standard : 
 ![Capture d'écran 2025-03-18 233155](https://github.com/user-attachments/assets/e7e2382d-e891-4b39-b189-62d9a0f6f9b1)
 
+
+Interface administrateur :
 ![Capture d'écran 2025-03-18 233358](https://github.com/user-attachments/assets/dfb03038-46b2-49e3-947b-7bc9b415f0ab)
 
 ## FAQ
